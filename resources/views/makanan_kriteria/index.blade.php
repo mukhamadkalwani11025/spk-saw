@@ -20,7 +20,7 @@
         @endif
 
         <table id="tabelMakananKriteria" class="table table-bordered table-striped">
-            <thead class="bg-primary text-white">
+            <thead>
                 <tr>
                     <th style="width:60px">No</th>
                     <th>Makanan</th>

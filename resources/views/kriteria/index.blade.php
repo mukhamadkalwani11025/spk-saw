@@ -21,7 +21,7 @@
         @endif
 
         <table id="tabelKriteria" class="table table-bordered table-striped">
-            <thead class="bg-primary text-white">
+            <thead>
                 <tr>
                     <th style="width:60px">No</th>
                     <th>Nama</th>

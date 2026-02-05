@@ -15,7 +15,7 @@
     </div>
     <div class="card-body">
         <table id="tabelMakanan" class="table table-bordered table-striped text-center">
-            <thead class="bg-primary text-white">
+            <thead>
                 <tr>
                     <th>No</th>
                     <th>Nama</th>
