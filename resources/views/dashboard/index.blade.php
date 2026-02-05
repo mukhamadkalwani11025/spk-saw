@@ -78,6 +78,5 @@
 @section('footer')
     <div class="text-center text-md-left">
         Copyright © 2014 - 2025 | All rights reserved. <br>
-        <a href="/">Sistem Rekomendasi Makanan Sehat</a>
     </div>
 @stop
